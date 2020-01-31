@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"Language: ru\n"
+
+#: elementor-rating-post-widget.php:120
+msgid "Elementor Post Rating Widget"
+msgstr "Виджет Оценки с помощью плагина Elementor"
+
+#: elementor-rating-post-widget.php:121 elementor-rating-post-widget.php:141
+msgid "Elementor"
+msgstr ""
+
+#. translators: 1: Plugin name 2: Elementor 3: Required Elementor version
+#. translators: 1: Plugin name 2: PHP 3: Required PHP version
+#: elementor-rating-post-widget.php:139 elementor-rating-post-widget.php:160
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: elementor-rating-post-widget.php:140
+msgid "Elementor Rating Widget"
+msgstr "Виджет Оценки с помощью плагина Elementor"
+
+#: helpers.php:31
+msgid "No ratings yet"
+msgstr "Нет Оценок"
+
+#: widgets/post-rating.php:35
+msgid "Post Rating"
+msgstr "Опубликовать Оценку"
+
+#: widgets/post-rating.php:93
+msgid "Rating Widget Settings"
+msgstr "Настройки Виджета Опубликованной Оценки"
+
+#: widgets/post-rating.php:100
+msgid "Star Color"
+msgstr "Цвет Звезды"
+
+#: widgets/post-rating.php:109
+msgid "Inactive Star Color"
+msgstr "Неактивный Цветы Звезды"
+
+#: widgets/post-rating.php:118
+msgid "Star Size"
+msgstr "Размер Звезды"
+
+#: widgets/post-rating.php:137
+msgid "Star Border Color"
+msgstr "Цвет Границы Звезды"
+
+#: widgets/post-rating.php:146
+msgid "Star Border Width"
+msgstr "Ширина Границы Звезды"
+
+#: widgets/post-rating.php:165
+msgid "Glow"
+msgstr "Свечение"
+
+#: widgets/post-rating.php:184
+msgid "Glow Color"
+msgstr "Цвет Свечения"
+
+#: widgets/post-rating.php:194
+msgid "Rounded Corners"
+msgstr "Округление Углов"
+
+#: widgets/post-rating.php:202
+msgid "Rating Text"
+msgstr "Текст Оценки"
+
+#: widgets/post-rating.php:204 widgets/post-rating.php:205
+msgid "Rated {{ratings_average}} by {{ratings_count}} Readers"
+msgstr "Оценен {{ratings_average}}{{ratings_count}} Читателями"
+
+#: widgets/post-rating.php:206
+msgid ""
+"Rating text should contain {{ratings_average}} and {{ratings_count}} in "
+"order to show Rating average and Ratings count"
+msgstr ""
+"Оценка должна содержать {{ratings_average}} и {{ratings_count}} для "
+"показа Средняя Оценка и Количество Оценок"
+
+#: widgets/post-rating.php:213
+msgid "No Rating Text"
+msgstr "Нет Текста Оценки"
+
+#: widgets/post-rating.php:217
+msgid "This string will display when no ratings for post"
+msgstr "Этот текст будет отображаться, когда нет опубликованных оценок"
+
+#: widgets/post-rating.php:225
+msgid "Typography"
+msgstr "Настройки Шрифта Текста"
+
+#: widgets/post-rating.php:234
+msgid "Text Color"
+msgstr "Цвет Текста"
+
+#: widgets/post-rating.php:246
+msgid "RTL"
+msgstr "Справа Налево"
+
+#. Plugin Name of the plugin/theme
+msgid "Elementor Post Rating"
+msgstr "Настройки Виджета Опубликованной Оценки"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://benbroide.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Elementor Post Rating."
+msgstr "Настройки Виджета Опубликованной Оценки"
+
+#. Author of the plugin/theme
+msgid "Ben Broide"
+msgstr ""

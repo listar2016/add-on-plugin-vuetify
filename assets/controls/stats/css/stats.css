@@ -1,0 +1,8 @@
+.elementor-control-stats li {
+    cursor: pointer;
+    display: inline-block;
+    margin: 3px;
+    padding: 3px;
+    user-select: none;
+    border: 1px dashed;
+}

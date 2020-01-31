@@ -1,0 +1,13 @@
+.mt-4{
+    margin-top: 4px;
+}
+.reset-rating-message{
+    text-align: right;
+    margin-top: 10px;
+}
+.message-success{
+    color: #39b54a;
+}
+.message-error{
+    color: red;
+}
